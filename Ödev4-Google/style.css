@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 100px;
+}
+
+html {
+    font-size: 16px;
+}
+
+.google1{
+    margin-top: 55px;
+    margin-bottom: 15px;
+}
+
+.search1{
+    background-color:#EEEEEE;
+}
+
+.search2{
+    display: flex;
+    justify-content: center;
+    height: 50%;
+   /*  #62B3AA */
+}
+
+
+ul li{
+    list-style-type: none;
+}
+
+#yesil1{
+    background-color:#62B3AA ;
+    width: 33%;
+    margin-right: 5px;
+    
+}
+
+#yesil2 {
+    background-color:#62B3AA ;
+    width: 33%;
+    font-size: 0.9rem;
+
+}
+
+#yesil3{
+    background-color:#62B3AA ;
+    width: 33%;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.bb1 {
+    margin: 0;
+}
+
+.bb2 {
+    margin-top: 1px;
+}
+
+
+
+
